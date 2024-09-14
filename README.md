@@ -2,7 +2,7 @@
 
 ````js
 let freelancer1 = "Sneha"
-let freelancer2 = "Sneha"
+let freelancer2 = "Vikram"
 
 let jobDescription1="App Developer"
 let jobDescription2 = "SEO Specialist"
